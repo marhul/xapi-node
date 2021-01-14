@@ -16,7 +16,7 @@ import {CHART_RATE_LIMIT_BY_PERIOD, Currency2Pair, Listeners, PositionType, Rele
 import {Socket} from './Socket/Socket';
 import {Stream} from './Stream/Stream';
 
-export const DefaultHostname = 'ws.xapi.pro';
+export const DefaultHostname = 'ws.xtb.com';
 export const DefaultRateLimit = 850;
 
 export interface XAPIConfig {
